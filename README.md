@@ -12,3 +12,9 @@ Code Written for ECS171- Tagkopoulos at UC Davis
 2. ANN
 3. Plotting Weights
 4. TensorBoard
+
+# Homework 3 
+1. SVM
+2. ROC Curve
+3. Lasso/Ridge Regression and finding the optimal lambda 
+4. Feature Selection using Lasso/Ridge
