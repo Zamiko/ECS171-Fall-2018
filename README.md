@@ -1,4 +1,4 @@
-# ECS171
+# ECS171 - Machine Learning
 Code Written for ECS171- Tagkopoulos at UC Davis
 
 # Homework 1 
